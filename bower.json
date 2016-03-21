@@ -1,0 +1,27 @@
+{
+  "name": "wp-theme-gulp",
+  "description": "Template for building WordPress themes using gulp",
+  "authors": [
+    "Marek Stabla"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "wordpress",
+    "gulp",
+    "theme"
+  ],
+  "homepage": "https://github.com/marekstabla/wp-theme-gulp",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap-sass": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}

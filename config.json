@@ -1,0 +1,7 @@
+{
+  "themeName": "wp-theme-gulp",
+  "wordPressDirectory": "wordpress",
+  "srcPath": "src",
+  "distPath": "dist",
+  "bowerDir": "bower_components"
+}
